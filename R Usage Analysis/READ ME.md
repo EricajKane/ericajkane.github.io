@@ -1,2 +1,2 @@
-# R Usage Analysis 
-Using data from the 2021 Kaggle Machine Learning & Data Science Survey, I ran a multiple logistic regression and a decision tree to find the factors that increased the likelihood of using R. Then I created an infographic explaining the background and results.
+##Is R outdated?
+Transformed the business question, 'Is it worth learning R for data analytics?' into a series of research questions. Applied decision trees, logistic regression, and descriptive statistics to analyze the data and shared the findings in an infographic to clearly communicate the insights
