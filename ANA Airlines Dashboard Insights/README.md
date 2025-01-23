@@ -1,2 +1,2 @@
 ## ANA Airlines Dashboard Insights
-Insights from a sample ANA Airlines online marketing dashboard. The word document has screen shots of the dashboard so you can see what the insights are pulling from.
+Extracted actionable insights from ANA Airlines' online marketing dashboard. Since the dashboard was not shareable, screenshots of relevant sections were utilized to illustrate each insight effectively.
