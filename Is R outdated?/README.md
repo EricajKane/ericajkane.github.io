@@ -4,4 +4,3 @@ Transformed the business question, 'Is it worth learning R for data analytics?' 
   * a pdf of the report 
   * the R code used for the analysis
   * the cleaned data that was used in the R code
-  * the original data
