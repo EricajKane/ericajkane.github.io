@@ -3,4 +3,4 @@ The presentation deck was created to be shared without an accompanying presentat
 
 ### Folder Contains:
  * Proposed social media buying plan in excel 
- * Pdf of presentation deck explaining the proposed plan 
+ * PDF of presentation deck explaining the proposed plan 
