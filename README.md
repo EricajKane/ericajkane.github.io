@@ -16,6 +16,12 @@ I thrive as a bridge between technical teams and business stakeholders, leveragi
 
 ## Projects 
 
+### IMDb AWS EMR Project 
+Leveraged the Apache Spark framework on AWS EMR clusters to analyze IMDb data stored in AWS S3 buckets. Deployed intricate queries involving up to four joined tables and subqueries to answer questions like, "What are the most common character names for actors and actresses in romance movies?"
+
+### Is R outdated?
+Transformed the business question, 'Is it worth learning R for data analytics?' into a series of research questions. Applied decision trees, logistic regression, and descriptive statistics to analyze the data and shared the findings in an infographic to clearly communicate the insights
+
 ### Relational Database for an Electronics Rental Company
 Designed a relational database for a mock electronics rental company in Microsoft Access using SQL. Executed SQL queries to handle possible business scenarios.
 
@@ -24,12 +30,6 @@ Analyzed the Kaggle "Hotel Booking Demand" dataset to identify predictors of res
 
 ### Product Management Analytics Project
 Developed a comprehensive framework for an analytics project addressing the pain points and opportunities faced by a product manager in a pseudo-Amazon company. Outlined key performance indicators (KPIs), identified required datasets, and proposed statistical models. Additionally, created a dashboard wireframe to highlight the KPIs for evaluating the success of the analytics project and its impact on company-wide goals.
-
-### Is R outdated?
-Transformed the business question, 'Is it worth learning R for data analytics?' into a series of research questions. Applied decision trees, logistic regression, and descriptive statistics to analyze the data and shared the findings in an infographic to clearly communicate the insights
-
-### IMDb AWS EMR Project 
-Leveraged the Apache Spark framework on AWS EMR clusters to analyze IMDb data stored in AWS S3 buckets. Deployed intricate queries involving up to four joined tables and subqueries to answer questions like, "What are the most common character names for actors and actresses in romance movies?"
 
 ### Stock Comparison Python Project 
 Developed a Python program utilizing the Yahoo Finance API to compare any stock’s performance against the S&P 500. Created user-friendly visualizations with Matplotlib to display comparisons through intuitive graphs.
