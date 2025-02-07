@@ -1,4 +1,20 @@
-# Academic Projects 
+# Erica Kane </br> $^{MS\ in\ Business\ Analytics,\ concentration\ in\ Marketing\ Analytics}$
+
+🔹 **Practical data insights** – Converting raw numbers into actionable insights to help businesses make informed decisions.  
+🔹 **Technical skills that get things done** – SQL, Python, R, SAS, Tableau, and AWS for managing, analyzing, and visualizing data.  
+🔹 **Business + psychology perspective** – Merging an understanding of human behavior with a focus on business priorities.  
+🔹 **Clear and effective communication** – Explaining complex concepts in clear, relatable terms.
+
+I am passionate about making data usable. My bachelor’s in psychology gave me an initial understanding of research into human behavior, but marketing took all those behavioral insights and applied them—helping businesses attract attention, create emotional connections, and become memorable. Seeing the power of applied research inspired me to pursue this path.
+
+To further develop my analytical and business expertise, I pursued an MS in Business Analytics. I strengthened my skills in statistics, data management, and visualization while gaining hands-on experience with SQL, Python, R, and AWS—learning to store, process, and analyze data in both local and cloud environments.
+
+Beyond technical skills, I’ve refined my ability to interpret the context behind data, enabling me to ask better questions and derive more impactful recommendations. I built on my undergraduate foundation in Psychology and Business Administration by taking courses in consumer behavior, social media analytics, data mining, and communication.
+
+I thrive as a bridge between technical teams and business stakeholders, leveraging my dual background in data and business to drive informed decision-making. I’m seeking opportunities where I can apply these skills to help organizations harness data for smarter strategies.
+
+
+## Projects 
 
 ### Relational Database for an Electronics Rental Company
 Designed a relational database for a mock electronics rental company in Microsoft Access using SQL. Executed SQL queries to handle possible business scenarios.
