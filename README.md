@@ -32,6 +32,13 @@ I thrive as a bridge between technical teams and business stakeholders, leveragi
 * Analyzed the Kaggle "Hotel Booking Demand" dataset to identify predictors of reservation cancellations. Conducted descriptive statistics, simple logistic regression, and multiple logistic regression analyses in R. Controlled for correlated predictors to produce insights and developed recommendations that balanced analytical results with business needs.
 
 
+#### [Geneseo Research Lab Projects](https://github.com/EricajKane/ericajkane.github.io/tree/main/Geneseo%20Research%20Posters)
+* <i>Role of Faculty Support in the College Adjustment of Underrepresented Students: A Climate Study</i>
+    - Looked at how 532 respondents rated the importance of different factors of faculty support, the amount they experienced those factors, and the amount they’ve adjusted to college. Students were split into minority and majority groups based on racial/ethnic background and sexual orientation. Mixed ANOVA tests were run in SPSS on the importance of faculty support factors and the amount they were experienced. Correlation analysis was also conducted on the experienced faculty support factors and college adjustment outcomes.
+* <i>Attachment, Hookup Motives, and Situational Context as Predictors of Reactions to Hookups</i>
+    - Leveraged SPSS with the Process add-on to analyze data from 270 participants. Examined the correlations between attachment orientation, motives for hooking up, and reactions to their most recent hookup. This indicated that sexual motives may act as mediators between attachment orientation and reactions after hookups. Utilized Process to run the OLS regressions and bootstrapping analyses that revealed the shapes and strengths of the mediation relationships.
+
+
 #### [Product Management Analytics Project](https://github.com/EricajKane/ericajkane.github.io/tree/main/Product%20Management%20Analytics%20Project)
 * Developed a comprehensive framework for an analytics project addressing the pain points and opportunities faced by a product manager in a pseudo-Amazon company. Outlined key performance indicators (KPIs), identified required datasets, and proposed statistical models. Additionally, created a dashboard wireframe to highlight the KPIs for evaluating the success of the analytics project and its impact on company-wide goals.
 
