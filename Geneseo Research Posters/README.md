@@ -1,3 +1,6 @@
 ## Posters used to Present Findings at the Association for Psychological Science (2017, 2018)
- * Role of Faculty Support in the College Adjustment of Underrepresented Students: A Climate Study (2017)
- * Attachment, Hookup Motives, and Situational Context as Predictors of Reactions to Hookups (2018)
+#### Role of Faculty Support in the College Adjustment of Underrepresented Students: A Climate Study (2017)
+- Looked at how 532 respondents rated the importance of different factors of faculty support, the amount they experienced those factors, and the amount they’ve adjusted to college. Students were split into minority and majority groups based on racial/ethnic background and sexual orientation. Mixed ANOVA tests were run in SPSS on the importance of faculty support factors and the amount they were experienced. Correlation analysis was also conducted on the experienced faculty support factors and college adjustment outcomes.
+       
+ #### Attachment, Hookup Motives, and Situational Context as Predictors of Reactions to Hookups (2018)
+ - Leveraged SPSS with the Process add-on to analyze data from 270 participants. Examined the correlations between attachment orientation, motives for hooking up, and reactions to their most recent hookup. This indicated that sexual motives may act as mediators between attachment orientation and reactions after hookups. Utilized Process to run the OLS regressions and bootstrapping analyses that revealed the shapes and strengths of the mediation relationships.
